@@ -18,6 +18,6 @@
     <None Include="markdownWorker.js" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="readme.txt" />
+    <Text Include="readme.md" />
   </ItemGroup>
 </Project>
