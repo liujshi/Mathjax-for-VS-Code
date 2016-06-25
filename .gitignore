@@ -56,11 +56,12 @@ dlldata.c
 *.pidb
 *.svclog
 *.scc
-.suo
-.sdf
-.sln
+*.suo
+*.sdf
+*.sln
 .filters
-.vcxproj
+*.vcxproj
+*.gitignore
 # Chutzpah Test files
 _Chutzpah*
 
